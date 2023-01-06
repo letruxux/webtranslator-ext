@@ -3,6 +3,7 @@
   <img align="center" alt="GitHub top language" src="https://img.shields.io/github/languages/top/letruxux/webtranslator-ext">
   <img align="center" alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/letruxux/webtranslator-ext?color=red">
 </div>
+
 my first extension!
 
 basically translates current page when you click on the icon. simple right? well, maybe too much, as it may not work. report bugs in issues!
